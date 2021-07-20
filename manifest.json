@@ -5,7 +5,7 @@
   "display": "standalone",
   "theme_color": "#a76e0c",
   "background_color": "#4ce1a0",
-  "start_url": "/",
+  "start_url": "https://yakovlevds.github.io/pwa_js_calc/index.html",
   "icons": [
     {
       "src": "images/71x71.png",
